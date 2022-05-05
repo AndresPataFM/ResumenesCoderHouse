@@ -1,6 +1,6 @@
 # Agregar SASS al proyecto
 1. Iniciar Node
-*Esta guia toma en cuenta que tienen instalado Node*
+*Esta guia toma en cuenta que tienen instalado Node (https://nodejs.org/es/)*
 ```
 npm init
 ```
