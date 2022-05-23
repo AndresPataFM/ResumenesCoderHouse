@@ -15,7 +15,6 @@ npm install -D node-sass nodemon
 ```
 node_modules
 ```
-![imagen de sass](public/SASS.png)
 
 4. Editar el package.json con los paths adecuados
 ```
@@ -23,7 +22,8 @@ node_modules
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
 ```
 
-*nota: es un ejemplo, solo asegurens de hacer bien los paths y acuerdense de poner la coma en la linea 7.*
+*nota: es un ejemplo, solo asegurense de hacer bien los paths y acuerdense de poner la coma en la linea 7.*
+![imagen de sass](public/SASS.png)
 
 IMG: donde agregar el path 
 
